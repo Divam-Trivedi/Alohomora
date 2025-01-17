@@ -1,5 +1,8 @@
 # Alohomora
 
+RBE/CS 549 Computer Vision [HW 0](https://rbe549.github.io/spring2025/hw/hw0/)
+Taught by [Dr. Nitin Sanket](https://nitinjsanket.github.io) at [Worcester Polytechnic institute](https://www.wpi.edu)
+
 ## PHASE 1 : PbLite Boundary Detection
 
 Step 1: Clone the repository
