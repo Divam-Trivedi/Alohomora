@@ -22,3 +22,7 @@ python3 Phase2/Code/Train.py
 ```
 
 Change the model in Train.py as required to access different models
+
+
+
+For further clarification contact at dtrivedi@wpi.edu
